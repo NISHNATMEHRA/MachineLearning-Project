@@ -18,8 +18,4 @@ Below are brief descriptions of your five machine learning projects:
    - Description: The goal of this project is to predict the survival of passengers aboard the Titanic based on features like age, gender, class, and fare. The dataset will include historical passenger information.
    - Goal: Develop a classification model to predict passenger survival on the Titanic.
 
-5. **Movie Recommendation System:**
-   - Description: This project focuses on building a movie recommendation system. The dataset will contain information about movies, user preferences, and ratings.
-   - Goal: Create a recommendation system that suggests relevant movies to users based on their preferences and viewing history.
-
 Each project will involve typical machine learning steps, including data preprocessing, model selection, training, evaluation, and possibly hyperparameter tuning. The final aim is to have well-performing models that can fulfill the respective objectives of each project. Happy coding and exploring the exciting world of machine learning!
